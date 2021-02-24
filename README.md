@@ -4,6 +4,7 @@ All projects are original.
 
 Leyenda:
 
+EDA = Exploratory Data Analysis \
 ML = Machine Learning \
 DT = Decission Tree \
 RF = Random Forest \
