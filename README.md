@@ -5,7 +5,8 @@ All projects are original.
 Leyenda:
 
 EDA = Exploratory Data Analysis \
-ML = Machine Learning \
+CL = Clustering \
 DT = Decission Tree \
+ML = Machine Learning \
 RF = Random Forest \
-CL = Clustering
+SCR = Scraping 
