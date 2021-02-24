@@ -4,7 +4,7 @@ All projects are original.
 
 Leyenda:
 
-ML = Machine Learning n\
-DT = Decission Tree \n
-RF = Random Forest
+ML = Machine Learning \
+DT = Decission Tree \
+RF = Random Forest \
 Cl = Clustering
