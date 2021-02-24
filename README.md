@@ -8,4 +8,4 @@ EDA = Exploratory Data Analysis \
 ML = Machine Learning \
 DT = Decission Tree \
 RF = Random Forest \
-Cl = Clustering
+CL = Clustering
