@@ -9,4 +9,5 @@ CL = Clustering \
 DT = Decission Tree \
 ML = Machine Learning \
 RF = Random Forest \
+XGB = XGBoost \
 SCR = Scraping 
