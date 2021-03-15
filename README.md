@@ -12,23 +12,23 @@ Leyenda:
 
 2. Microsoft Over The Moon
    
-   Dessarrollo de un proyecto tutorial de microsoft, resolviendo diversos problemas a partir de los datos otorgados.
-   -DataFrame Displays
-   -Data cleansing
+   Dessarrollo de un proyecto tutorial de microsoft, resolviendo diversos problemas a partir de los datos otorgados. \
+   -DataFrame Displays\
+   -Data cleansing\
    -Insights
 
  
 3. Kaggle Housing prices
    
-   Construcción de árbol de decisiones y random forest para predicciones inmobiliarias.
-   -Decision Tree
+   Construcción de árbol de decisiones y random forest para predicciones inmobiliarias.\
+   -Decision Tree\
    -Random Forest
 
 4. Kaggle Housing prices
  
-   Construcción de un modelo mejor para competición de Kaggle
-   -Data Cleasing
-   -Pipeline
+   Construcción de un modelo mejor para competición de Kaggle\
+   -Data Cleasing\
+   -Pipeline\
    -Potenciación de Gradiente (XGBoost)
  
 5. Civiencia EcoData
@@ -38,9 +38,9 @@ Leyenda:
 
 6. Analyzing TV Data 
 
-   Project from DataCamp about analyzing TV data
-   -Data visualizations
-   -Data Comparisions
+   Project from DataCamp about analyzing TV data\
+   -Data visualizations\
+   -Data Comparisions\
    -Insights
    
  7.
