@@ -6,9 +6,9 @@ Leyenda:
 
 1. Clustering y web Scrapping Sevilla.
 
-   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. 
-   -Clustering
-   -Web Scrapping
+   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. \
+   -Clustering \
+   -Web Scrapping 
 
 2. Microsoft Over The Moon
    
