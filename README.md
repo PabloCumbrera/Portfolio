@@ -4,14 +4,43 @@ All projects are original.
 
 Leyenda:
 
-1. El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. 
+1. Clustering y web Scrapping Sevilla.
 
-2. Dessarrollo de un proyecto tutorial de microsoft, resolviendo diversos problemas a partir de los datos otorgados 
+   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. 
+   -Clustering
+   -Web Scrapping
+
+2. Microsoft Over The Moon
+   
+   Dessarrollo de un proyecto tutorial de microsoft, resolviendo diversos problemas a partir de los datos otorgados.
+   -DataFrame Displays
+   -Data cleansing
+   -Insights
+
  
-3. Construcción de árbol de decisiones y random forest para predicciones inmobiliarias. 
+3. Kaggle Housing prices
+   
+   Construcción de árbol de decisiones y random forest para predicciones inmobiliarias.
+   -Decision Tree
+   -Random Forest
 
-4. Segunda parte, limpieza de los datos y construcción de un gradiente XGBoost. 
+4. Kaggle Housing prices
  
-5. Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
+   Construcción de un modelo mejor para competición de Kaggle
+   -Data Cleasing
+   -Pipeline
+   -Potenciación de Gradiente (XGBoost)
+ 
+5. Civiencia EcoData
 
-6. Analizamos datos de la suoer
+   Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
+ 
+
+6. Analyzing TV Data 
+
+   Project from DataCamp about analyzing TV data
+   -Data visualizations
+   -Data Comparisions
+   -Insights
+   
+ 7.
