@@ -4,6 +4,12 @@ All projects are original.
 
 Leyenda:
 
+0. Convolutional Neural Networks to classify and locate.
+
+   Lectura de datos en Arrays. Lectura e interpretación de datos. Contrucción CNN con dos outputs: Clasificación y Localización
+   - Keras CNN
+   - Data Manipulation
+
 1. Clustering y web Scrapping Sevilla.
 
    El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. \
@@ -36,11 +42,4 @@ Leyenda:
    Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
  
 
-6. Analyzing TV Data 
-
-   Project from DataCamp about analyzing TV data\
-   -Data visualizations\
-   -Data Comparisions\
-   -Insights
-   
- 7.
+ 6.
