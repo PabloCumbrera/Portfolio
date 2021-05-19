@@ -24,11 +24,12 @@ Leyenda:
    -Insights
 
  
-3. Kaggle Housing prices
-   
-   Construcción de árbol de decisiones y random forest para predicciones inmobiliarias.\
-   -Decision Tree\
-   -Random Forest
+3. Transfer Learning on MNIST data Set
+
+   Construcción y desarrollo de un modelo de visión artificial con transferencia de aprendizaje de modelo A a B
+   - CNN
+   - Transfer Learning
+ 
 
 4. Kaggle Housing prices
  
