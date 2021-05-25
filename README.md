@@ -46,4 +46,8 @@ Leyenda:
    Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
  
 
- 6.
+ 6. Architecture YoloV3
+
+   Engineering of Convolutional Neural Networks (model replication) for Real Time Image Detection.
+   
+ 7.  
