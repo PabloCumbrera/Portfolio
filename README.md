@@ -3,7 +3,8 @@
 Portfolio with all the projects I have been working from 2020.
 All projects are original.
 
-![particula-tecnologia-abstracta-realista-fondo_23-2148431735](https://user-images.githubusercontent.com/76842771/119463671-4353f900-bd42-11eb-98c1-bbd949a30630.jpg)
+![428471d4f6c147b88ee7c2cff3efc4cb](https://user-images.githubusercontent.com/76842771/119686522-b3e43e00-be46-11eb-8273-a43ca7ae5267.jpg)
+
 
 Leyenda:
 
