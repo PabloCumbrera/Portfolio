@@ -1,5 +1,5 @@
 
-# Welcome to my personal Portfolio
+# Welcome to my Personal Portfolio
 Portfolio with all the projects I have been working from 2020.
 All projects are original.
 
