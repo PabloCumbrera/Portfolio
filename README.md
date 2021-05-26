@@ -19,12 +19,12 @@ Leyenda:
    -Clustering \
    -Web Scrapping 
 
-2. Microsoft Over The Moon
+2. In your Hands - A data Engineering Project
    
-   Dessarrollo de un proyecto tutorial de microsoft, resolviendo diversos problemas a partir de los datos otorgados. \
+   Dessarrollo de un proyecto de ingenieria de datos. Transformación, descarga, limpieza y unión \
+   -ETL \
    -DataFrame Displays\
    -Data cleansing\
-   -Insights
 
  
 3. Transfer Learning on MNIST data Set
