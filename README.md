@@ -45,15 +45,23 @@ Leyenda:
 5. Civiencia EcoData
 
    Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
- 
+   - Importing Data
+   - Plotting Data
 
  6. Architecture YoloV3
 
    Engineering of Convolutional Neural Networks (model replication) for Real Time Image Detection.
+   - Machine Learning Engineering
    
  7. Singapour Energy Savings - A data Analysis Project
 
-   Data analysis for a certification test on Data Camp. Understanding, cleaning, analyzing & extracting outcomes.
+   Data analysis for a certification test on Data Camp. 
+   - Understanding
+   - Cleaning
+   - Analyzing 
+   - Extracting outcomes.
+
+8. XX
 
 
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
