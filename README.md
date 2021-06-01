@@ -51,7 +51,9 @@ Leyenda:
 
    Engineering of Convolutional Neural Networks (model replication) for Real Time Image Detection.
    
- 7. XXX
+ 7. Singapour Energy Savings - A data Analysis Project
+
+   Data analysis for a certification test on Data Camp. Understanding, cleaning, analyzing & extracting outcomes.
 
 
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
