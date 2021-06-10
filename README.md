@@ -46,12 +46,12 @@ Leyenda:
    - Importing Data
    - Plotting Data
 
- 6. Architecture YoloV3
+6. Architecture YoloV3
 
    Engineering of Convolutional Neural Networks (model replication) for Real Time Image Detection.
    - Machine Learning Engineering
    
- 7. Singapour Energy Savings - A data Analysis Project
+7. Singapour Energy Savings - A data Analysis Project
 
    Data analysis for a certification test on Data Camp. 
    - Understanding
