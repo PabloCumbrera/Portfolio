@@ -16,30 +16,30 @@ Leyenda:
 
 1. Clustering y web Scrapping Sevilla.
 
-   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square. \
-   -Clustering \
+   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square.
+   -Clustering
    -Web Scrapping 
 
 2. In your Hands - A data Engineering Project
    
-   Dessarrollo de un proyecto de ingenieria de datos. Transformación, descarga, limpieza y unión \
-   -ETL \
-   -DataFrame Displays\
-   -Data cleansing\
+   Dessarrollo de un proyecto de ingenieria de datos. Transformación, descarga, limpieza y unión de DataFrames.
+   -ETL
+   -DataFrame Displays
+   -Data cleansing
 
  
-3. Transfer Learning on MNIST data Set
+3. Transfer Learning on MNIST data Set.
 
    Construcción y desarrollo de un modelo de visión artificial con transferencia de aprendizaje de modelo A a B
    - CNN
    - Transfer Learning
  
 
-4. Kaggle Housing prices
+4. Kaggle Housing prices.
  
-   Construcción de un modelo mejor para competición de Kaggle\
-   -Data Cleasing\
-   -Pipeline\
+   Construcción de un modelo mejor para competición de Kaggle
+   -Data Cleasing
+   -Pipeline
    -Potenciación de Gradiente (XGBoost)
  
 5. Civiencia EcoData
@@ -61,7 +61,13 @@ Leyenda:
    - Analyzing 
    - Extracting outcomes.
 
-8. XX
+8. BETO chatbot Project
+
+   NLP project about testing and implementing on FB Messenger a Q/A Chatbot
+   - NLP Understanding
+   - Tokenizing test
+   - Model Interacting
+   - Server conecting
 
 
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
