@@ -67,7 +67,14 @@ Leyenda:
    - Model Interacting
    - Server conecting
 
-9. XXX
+9. CNN- Model Selection on Analyzing Performance Criteria
+
+   CNN Project where given a task, we have to choose best model performance.
+   - CNN Model Architecture
+   - Understanding, cleaning and preparing data
+   - Exploratory Data Analysis
+
+10. XX
 
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
 
