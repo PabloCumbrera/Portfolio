@@ -33,12 +33,13 @@ Leyenda:
    - CNN
    - Transfer Learning
  
-4. Kaggle Housing prices.
+4. Data Science - Diabetes predictive Model.
  
-   Construcción de un modelo mejor para competición de Kaggle.
+   In depth analysis of a diabetes project in order to gain insights through data analysis and machine learning. Data Camp proffesional certification project.
    - Data Cleansing
-   - Pipeline
-   - Potenciación de Gradiente (XGBoost)
+   - Data visualization
+   - Machine Learning algorithms (Regression, KNN)
+   - Outcomes reporting
  
 5. Civiencia EcoData
 
