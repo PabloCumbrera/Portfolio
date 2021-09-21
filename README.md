@@ -79,7 +79,7 @@ Leyenda:
 
 11. Flower Classification CNN
 
-   CNN to classify unlabeled images through clustering algorithm
+   - CNN to classify unlabeled images through clustering algorithm
 
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
 
