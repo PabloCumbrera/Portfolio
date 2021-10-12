@@ -75,7 +75,7 @@ Leyenda:
    - Understanding, cleaning and preparing data
    - Exploratory Data Analysis
 
-10. XX
+10. GAN Monet Project
 
 11. Flower Classification CNN
 
