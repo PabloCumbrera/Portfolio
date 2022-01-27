@@ -77,10 +77,14 @@ Leyenda:
 
 10. GAN Monet Project
 
-11. Flower Classification CNN
+11. Flower Classification ML
 
-   - CNN to classify unlabeled images through clustering algorithm
+   - ML to classify unlabeled images through clustering algorithm
 
+12. Data Science - Machine Learning: Housing rental
+
+   - XX
+   
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
 
    
