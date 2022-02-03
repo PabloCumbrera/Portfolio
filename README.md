@@ -93,11 +93,11 @@ Leyenda:
 
    - Prediction on NN about Wheelchair ramps. Exam passed.
 
-14. Consulting HR 
+15. Consulting HR 
 
    - Case study relating Human Resources and Data Analytics.
 
-15. SQL Study Case - Articles
+16. SQL Study Case - Articles
 
    - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
 
