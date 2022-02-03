@@ -76,6 +76,8 @@ Leyenda:
    - Exploratory Data Analysis
 
 10. GAN Monet Project
+.
+   - GAN study based on Kaggle competition
 
 11. Flower Classification ML
 
