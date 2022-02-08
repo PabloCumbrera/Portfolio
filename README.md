@@ -102,6 +102,11 @@ Leyenda:
 16. SQL Study Case - Articles
 
    - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
+  
+17. SQL Study Case - Roman Emperors
+
+   - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
+
 
    
 ![428471d4f6c147b88ee7c2cff3efc4cb (2)](https://user-images.githubusercontent.com/76842771/119687151-4258bf80-be47-11eb-85f3-080328e22ecf.jpg)
