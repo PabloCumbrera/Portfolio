@@ -85,7 +85,9 @@ Leyenda:
 
 12. Data Science - Machine Learning: Housing rental
 
-   - Data Cleaning, visualization and Machine Learning XGBoost Model.
+   - Data Cleaning
+   - Visualization
+   - Machine Learning XGBoost Model.
 
 13. SQL - Data Camp Certification test - Orchestra
 
