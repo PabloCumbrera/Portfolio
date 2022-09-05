@@ -109,7 +109,7 @@ Leyenda:
 
    - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
    
-178. Power BI - Air data Dashboard
+18. Power BI - Air data Dashboard
 
    - Worked on data treatment, cleansing and powerquerying for creating a control dashboard for most relevant related data.
 
