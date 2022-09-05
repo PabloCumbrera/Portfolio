@@ -108,6 +108,10 @@ Leyenda:
 17. SQL Study Case - Roman Emperors
 
    - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
+   
+178. Power BI - Air data Dashboard
+
+   - Worked on data treatment, cleansing and powerquerying for creating a control dashboard for most relevant related data.
 
 
    
