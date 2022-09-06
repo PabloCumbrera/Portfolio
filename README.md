@@ -112,6 +112,10 @@ Leyenda:
 18. Power BI - Air data Dashboard
 
    - Worked on data treatment, cleansing and powerquerying for creating a control dashboard for most relevant related data.
+   
+19. Tableau - BTC Sotck Price Dashboard
+
+   - Worked on data treatment, cleansing for creating a control dashboard for BTC stock related data.
 
 
    
