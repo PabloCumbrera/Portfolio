@@ -116,6 +116,10 @@ Leyenda:
 19. Tableau - BTC Sotck Price Dashboard
 
    - Worked on data treatment, cleansing for creating a control dashboard for BTC stock related data.
+  
+ 20. Data Analytics
+ 
+   - Data Treatment and Visualized guided by customer questions
 
 
    
