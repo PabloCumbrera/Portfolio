@@ -20,12 +20,12 @@ Leyenda:
    - Clustering
    - Web Scrapping 
 
-2. In your Hands - A data Engineering Project
+2. Car Pooling - A Data Science Consulting Project
    
-   Dessarrollo de un proyecto de ingenieria de datos. Transformación, descarga, limpieza y unión de DataFrames.
-   - ETL
-   - DataFrame Displays
-   - Data Cleansing
+   Propuesta de estrategia de optimización de precios
+   - Distribuciones
+   - Simulaciones
+   - Visualizaciones
 
 3. Transfer Learning on MNIST data Set.
 
