@@ -47,10 +47,10 @@ Leyenda:
    - Importing Data
    - Plotting Data
 
-6. Architecture YoloV3
+6. Benford Algorithm - Data Science
 
-   Engineering of Convolutional Neural Networks (model replication) for Real Time Image Detection.
-   - Machine Learning Engineering
+   Programming of a data processing algorthim for demostrating visualy Benford's Law
+   - Data Science
    
 7. Singapour Energy Savings - A data Analysis Project
 
