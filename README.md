@@ -14,11 +14,11 @@ Leyenda:
    - Keras CNN
    - Data Manipulation
 
-1. Clustering y web Scrapping Sevilla.
+1. LEGO SQL Data Analytics
 
-   El proyecto trabaja clustering y web scrapping para localización y segmentación de los servicios de los barrios en Sevilla según 4square.
-   - Clustering
-   - Web Scrapping 
+   Proyecto para competición de Data Analytics 48 horas.
+   - SQL
+   - Data Visualization
 
 2. Car Pooling - A Data Science Consulting Project
    
