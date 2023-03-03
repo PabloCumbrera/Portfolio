@@ -41,11 +41,13 @@ Leyenda:
    - Machine Learning algorithms (Regression, KNN)
    - Outcomes reporting
  
-5. Civiencia EcoData
+5. Power BI - Report Consulting
 
-   Visualización de diversas opiniones de encuesta sobre ecología del INE en 2018.
-   - Importing Data
-   - Plotting Data
+  Realización de proyecto en 2 HORAS
+   - Visualización de datos
+   - Toma de Requerimientos
+   - DAX
+   - PowerQuery
 
 6. Benford Algorithm - Data Science
 
