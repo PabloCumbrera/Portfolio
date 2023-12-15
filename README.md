@@ -8,11 +8,6 @@ All projects are original.
 
 Leyenda:
 
-0. Convolutional Neural Networks to classify and locate.
-
-   Lectura de datos en Arrays. Lectura e interpretación de datos. Contrucción CNN con dos outputs: Clasificación y Localización
-   - Keras CNN
-   - Data Manipulation
 
 1. LEGO SQL Data Analytics
 
@@ -111,17 +106,15 @@ Leyenda:
 
    - SQL Data Management. Given a situation, extracting from a database required entries under given conditions.
    
-18. Power BI - Air data Dashboard
+18. Power BI -
 
-   - Worked on data treatment, cleansing and powerquerying for creating a control dashboard for most relevant related data.
+   -A
    
-19. Tableau - BTC Sotck Price Dashboard
+20. Tableau - BTC Sotck Price Dashboard
 
    - Worked on data treatment, cleansing for creating a control dashboard for BTC stock related data.
   
- 20. Data Analytics
- 
-   - Data Treatment and Visualized guided by customer questions
+
 
 
    
